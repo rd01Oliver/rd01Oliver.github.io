@@ -6,7 +6,7 @@ This time I learn how to write my first biog,how to put a link on it and how to 
 
 
 Images
-![GitHub Logo](/logo.png)
+![GitHub Logo](//logo.png)
 Format: ![Alt Text](url)
 
 
