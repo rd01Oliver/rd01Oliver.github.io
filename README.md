@@ -1,4 +1,13 @@
+
 # 1-1 learn how to use github to write a blog #
+This time I learn how to write my first biog,how to put a link on it and how to upload a picture.
+
+
+
+
+Images
+![GitHub Logo](/logo.png)
+Format: ![Alt Text](url)
 
 
 
@@ -10,11 +19,7 @@
 
 
 
-
-
-
-
-
+ to 
 
 
 
